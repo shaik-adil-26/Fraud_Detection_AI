@@ -52,3 +52,15 @@ This project simulates a fraud detection system that:
 - Cluster with highest average transaction amount is treated as suspicious
 
 ---
+
+
+## 👤 Author
+
+**Shaik Adil Altaf**
+BCA Student | Python Learner | AI & Data Science Enthusiast
+
+---
+## Contact
+📧 Email: shaikadil2600@gmail.com
+
+---
