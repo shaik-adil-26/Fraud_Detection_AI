@@ -52,6 +52,41 @@ This project simulates a fraud detection system that:
 - Cluster with highest average transaction amount is treated as suspicious
 
 ---
+🌐 App Interface
+
+The app allows users to:
+
+Enter transaction details
+
+View dataset previews
+
+Predict fraud risk instantly
+
+---
+
+📦 Model Files
+
+Model and scaler are automatically:
+
+Trained if not available
+
+Loaded if already saved
+
+---
+
+🎯 Learning Outcomes
+
+This project demonstrates:
+
+Explainable AI Pipeline
+
+End-to-End ML Workflow
+
+Real-world Fraud Detection Simulation
+
+Streamlit Deployment
+
+---
 
 
 ## 👤 Author
